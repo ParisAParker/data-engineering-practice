@@ -1,2 +1,5 @@
 yfinance
 ipykernel
+psycopg2
+python-dotenv
+sqlalchemy
